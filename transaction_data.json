@@ -1,0 +1,24 @@
+{
+    "neelesh": [
+        {
+            "Type": "Deposit",
+            "Amount": 3546.0,
+            "Balance": 23546.0
+        },
+        {
+            "Type": "Withdraw",
+            "Amount": 2000.0,
+            "Balance": 21546.0
+        },
+        {
+            "Type": "Deposit",
+            "Amount": 123.0,
+            "Balance": 21669.0
+        },
+        {
+            "Type": "Withdraw",
+            "Amount": 123.0,
+            "Balance": 21546.0
+        }
+    ]
+}
